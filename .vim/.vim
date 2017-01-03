@@ -1,1 +1,1 @@
-/Users/obatayousuke/dotfiles/.vim
+/Users/obatatakuma/dotfiles/.vim
